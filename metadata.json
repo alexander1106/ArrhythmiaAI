@@ -1,0 +1,5 @@
+{
+  "name": "ECG Arrhythmia Analyzer",
+  "description": "An application that uses Gemini to analyze an uploaded electrocardiogram (ECG) image, providing predictive metrics and an arrhythmia level assessment in a structured table.",
+  "requestFramePermissions": []
+}
